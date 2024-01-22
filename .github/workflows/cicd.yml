@@ -1,4 +1,4 @@
-name: .NWT
+name: .NET
 
 on:
   push:
